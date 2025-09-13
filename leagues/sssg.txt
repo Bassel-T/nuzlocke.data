@@ -62,7 +62,7 @@ honchkrow|43|brave-bird,thunder-wave,dark-pulse,night-shade|insomnia|
 --petrel3|Executive Petrel||/leaders/gs-petrel
 raticate|44|double-edge,flame-wheel,crunch,toxic|hustle|
 skuntank|44|toxic,explosion,crunch,protect|stench|
-tangrowth|44 |toxic,protect,power-whip,earthquake|chlorophyll|
+tangrowth|44|toxic,protect,power-whip,earthquake|chlorophyll|
 toxicroak|44|cross-chop,toxic,protect,stone-edge|anticipation|
 hypno|44|disable,toxic,protect,psychic|insomnia|
 weezing|45|sludge-bomb,protect,destiny-bond,toxic|levitate|sitrus-berry

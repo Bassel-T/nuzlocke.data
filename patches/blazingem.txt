@@ -106,7 +106,7 @@ overcharge|electric|160|An explosive burst of power that paralyzes the user|phys
 thunder-clap|electric|80|A lightning-fueled tackle that always hits first|physical
 beguile|fairy|60|A sneak attack that will faint an Infatuated foe|physical
 cookie-cut|fairy|10|Always strikes first and raises all stats one stage|physical
-dazzle-dust|fairy|Halves HP||special
+dazzle-dust|fairy||Halves HP|special
 drain-kiss|fairy|60|An attack that steals half the damage inflicted|special
 knight's-vow|fairy||Bolsters defenses and heals all status problems|status
 moonrazer|fairy|85|Call to the moon to attack. May put the foe to sleep|special
@@ -360,5 +360,5 @@ weepy-wail|water|80|A sharp wail that reduces the foe's Sp. Atk|special
 100,120,120,80,100,80|Crawb|crawb|steel,water|/blazingem/crawb|crawb
 125,86,120,134,110,105|Armored-mewtwo|armored-mewtwo|psychic,steel|/blazingem/armored-mewtwo|mewtwo
 250,10,130,10,130,10|Vitellion|vitellion|???|/blazingem/vitellion|vitellion
-200,120,180,120,180,0|Metunn|metunn|psychic,ghost|/blazingem/metunn|metunn
+200,120,180,120,180,200|Metunn|metunn|psychic,ghost|/blazingem/metunn|metunn
 106,130,90,154,90,110|Shadow Lugia|shadow-lugia|dark,psychic|/blazingem/shadow-lugia|lugia

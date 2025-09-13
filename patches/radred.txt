@@ -23,6 +23,8 @@ ice-hammer|||No effect
 soul-robbery|psychic|100|The target's stat increases are stolen from it and applied to the user before dealing damage.|special
 dark-hole|dark|100|This move has a 40% chance to inflict sleep on the target, it also bypasses substitute.|special
 draco-barrage|dragon|100|This move becomes a physical attack if the user's Attack is greater than its Special Attack. If the target lost HP, the user takes recoil damage equal to 33% the HP. This move can hit Fairy-type Pokemon.|special
+chloroblast|grass|150||special
+infernal-parade|ghost|60||special
 
 hidden-power-grass|grass|60||special|Hidden Power
 hidden-power-ground|ground|60||special|Hidden Power

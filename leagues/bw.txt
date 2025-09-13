@@ -105,12 +105,6 @@ snivy|7|tackle,leer,vine-whip|overgrow|oran-berry|water
 tepig|7|tackle,tail-whip,ember|blaze|oran-berry|grass
 purrloin|8|scratch,growl,assist|limber
 
---c2|Cheren||/leaders/blwh-cheren
-oshawott|7|tackle,tail-whip,water-gun|torrent|oran-berry|fire
-snivy|7|tackle,leer,vine-whip|overgrow|oran-berry|water
-tepig|7|tackle,tail-whip,ember|blaze|oran-berry|grass
-purrloin|8|scratch,growl,assist|limber
-
 --c3|Cheren||/leaders/blwh-cheren
 oshawott|14|tackle,tail-whip,water-gun,water-sport|torrent|oran-berry|fire
 snivy|14|tackle,leer,vine-whip,wrap|overgrow|oran-berry|water

@@ -261,7 +261,7 @@ marowak|55|shadow-rage,double-edge,bonemerang,brick-break||leftovers|||docile
 --v_1silph|Admin
 ==double:true
 seviper|65|poison-fang,dragon-breath,iron-tail,defense-curl||poison-barb|||docile
-crobat|65|poison-fang,aerian-ace,substitute,roost||sharp-beak|||docile
+crobat|65|poison-fang,aerial-ace,substitute,roost||sharp-beak|||docile
 houndoom|65|dark-pulse,flamethrower,swagger,roar||charcoal|||docile
 mightyena|65|crunch,double-edge,swagger,glare||black-glasses|||docile
 kanghaskan|65|mega-punch,substitute,brick-break,hidden-power-rock||silk-scarf|||docile

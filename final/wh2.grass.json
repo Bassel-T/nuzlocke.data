@@ -1,0 +1,6274 @@
+{
+  "col1": {
+    "name": "Colress",
+    "speciality": "steel",
+    "img": "/leaders/blwh-colress",
+    "pokemon": [
+      {
+        "name": "magnemite",
+        "level": "21",
+        "moves": [
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Thunder Wave",
+            "effect": ""
+          },
+          {
+            "power": 65,
+            "type": "electric",
+            "damage_class": "physical",
+            "name": "Spark",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Magnet Bomb",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "81",
+        "types": [
+          "electric",
+          "steel"
+        ],
+        "stats": {
+          "hp": 25,
+          "atk": 35,
+          "def": 70,
+          "spa": 95,
+          "spd": 55,
+          "spe": 45
+        }
+      },
+      {
+        "name": "klink",
+        "level": "23",
+        "moves": [
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Charge",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunder Shock",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Gear Grind",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Plus",
+          "effect": ""
+        },
+        "sprite": "599",
+        "types": [
+          "steel"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 55,
+          "def": 70,
+          "spa": 45,
+          "spd": 60,
+          "spe": 30
+        }
+      }
+    ]
+  },
+  "col3": {
+    "name": "Colress",
+    "speciality": "steel",
+    "img": "/leaders/blwh-colress",
+    "pokemon": [
+      {
+        "name": "magneton",
+        "level": "50",
+        "moves": [
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Thunder Wave",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Volt Switch",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "normal",
+            "damage_class": "special",
+            "name": "Tri Attack",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "steel",
+            "damage_class": "special",
+            "name": "Flash Cannon",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "eviolite",
+          "name": "Eviolite",
+          "effect": ""
+        },
+        "sprite": "82",
+        "types": [
+          "electric",
+          "steel"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 60,
+          "def": 95,
+          "spa": 120,
+          "spd": 70,
+          "spe": 70
+        }
+      },
+      {
+        "name": "beheeyem",
+        "level": "50",
+        "moves": [
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Calm Mind",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "grass",
+            "damage_class": "special",
+            "name": "Energy Ball",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Recover",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Synchronize",
+          "effect": ""
+        },
+        "sprite": "606",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 75,
+          "def": 75,
+          "spa": 125,
+          "spd": 95,
+          "spe": 40
+        }
+      },
+      {
+        "name": "metang",
+        "level": "50",
+        "moves": [
+          {
+            "power": 90,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Meteor Mash",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Agility",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "psychic",
+            "damage_class": "physical",
+            "name": "Zen Headbutt",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Clear Body",
+          "effect": ""
+        },
+        "sprite": "375",
+        "types": [
+          "steel",
+          "psychic"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 75,
+          "def": 100,
+          "spa": 55,
+          "spd": 80,
+          "spe": 50
+        }
+      },
+      {
+        "name": "magnezone",
+        "level": "50",
+        "moves": [
+          {
+            "power": 80,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Discharge",
+            "effect": ""
+          },
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Thunder Wave",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "steel",
+            "damage_class": "special",
+            "name": "Flash Cannon",
+            "effect": ""
+          },
+          {
+            "power": 250,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Explosion",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "462",
+        "types": [
+          "electric",
+          "steel"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 70,
+          "def": 115,
+          "spa": 130,
+          "spd": 90,
+          "spe": 60
+        }
+      },
+      {
+        "name": "klinklang",
+        "level": "52",
+        "moves": [
+          {
+            "type": "steel",
+            "damage_class": "status",
+            "name": "Shift Gear",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Gear Grind",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunderbolt",
+            "effect": ""
+          },
+          {
+            "power": 150,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Giga Impact",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Plus",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "air-balloon",
+          "name": "Air Balloon",
+          "effect": ""
+        },
+        "sprite": "601",
+        "types": [
+          "steel"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 100,
+          "def": 115,
+          "spa": 70,
+          "spd": 85,
+          "spe": 90
+        }
+      }
+    ]
+  },
+  "rood": {
+    "name": "Rood",
+    "speciality": "",
+    "img": "/leaders/blwh-rood",
+    "pokemon": [
+      {
+        "name": "herdier",
+        "level": "27",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Helping Hand",
+            "effect": "",
+            "priority": 5
+          },
+          {
+            "power": 90,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Take Down",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Work Up",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Intimidate",
+          "effect": ""
+        },
+        "sprite": "507",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 80,
+          "def": 65,
+          "spa": 35,
+          "spd": 65,
+          "spe": 60
+        }
+      },
+      {
+        "name": "swoobat",
+        "level": "27",
+        "moves": [
+          {
+            "power": 60,
+            "type": "psychic",
+            "damage_class": "physical",
+            "name": "Heart Stamp",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Imprison",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Cutter",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Attract",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Unaware",
+          "effect": ""
+        },
+        "sprite": "528",
+        "types": [
+          "psychic",
+          "flying"
+        ],
+        "stats": {
+          "hp": 67,
+          "atk": 57,
+          "def": 55,
+          "spa": 77,
+          "spd": 55,
+          "spe": 114
+        }
+      }
+    ]
+  },
+  "zinz1": {
+    "name": "Zinzolin & Grunt",
+    "speciality": "",
+    "img": "/leaders/blwh-zinzolin-grunt",
+    "pokemon": [
+      {
+        "name": "cryogonal",
+        "level": "42",
+        "moves": [
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Light Screen",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Reflect",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "sneasel",
+        "level": "44",
+        "moves": [
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Snatch",
+            "effect": "",
+            "priority": 4
+          },
+          {
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Punishment",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Screech",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Inner Focus",
+          "effect": ""
+        },
+        "sprite": "215",
+        "types": [
+          "dark",
+          "ice"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 95,
+          "def": 55,
+          "spa": 35,
+          "spd": 75,
+          "spe": 115
+        }
+      },
+      {
+        "name": "golbat",
+        "level": "39",
+        "moves": [
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Cutter",
+            "effect": ""
+          },
+          {
+            "power": 55,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Acrobatics",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Mean Look",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "poison",
+            "damage_class": "physical",
+            "name": "Poison Fang",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Inner Focus",
+          "effect": ""
+        },
+        "sprite": "42",
+        "types": [
+          "poison",
+          "flying"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 80,
+          "def": 70,
+          "spa": 65,
+          "spd": 75,
+          "spe": 90
+        }
+      },
+      {
+        "name": "garbodor",
+        "level": "39",
+        "moves": [
+          {
+            "power": 90,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Sludge Bomb",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Clear Smog",
+            "effect": ""
+          },
+          {
+            "type": "poison",
+            "damage_class": "status",
+            "name": "Toxic",
+            "effect": ""
+          },
+          {
+            "power": 85,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Body Slam",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Weak Armor",
+          "effect": ""
+        },
+        "sprite": "569",
+        "types": [
+          "poison"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 95,
+          "def": 82,
+          "spa": 60,
+          "spd": 82,
+          "spe": 75
+        }
+      }
+    ]
+  },
+  "zinz2": {
+    "name": "Zinzolin",
+    "speciality": "",
+    "img": "/leaders/blwh-zinzolin",
+    "pokemon": [
+      {
+        "name": "cryogonal",
+        "level": "46",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Reflect",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "cryogonal",
+        "level": "46",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Reflect",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "weavile",
+        "level": "48",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "ice",
+            "damage_class": "physical",
+            "name": "Ice Shard",
+            "effect": "",
+            "priority": 1
+          }
+        ],
+        "ability": {
+          "name": "Pressure",
+          "effect": ""
+        },
+        "sprite": "461",
+        "types": [
+          "dark",
+          "ice"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 120,
+          "def": 65,
+          "spa": 45,
+          "spd": 85,
+          "spe": 125
+        }
+      }
+    ]
+  },
+  "zinz3": {
+    "name": "Zinzolin & grunt",
+    "speciality": "",
+    "img": "/leaders/blwh-zinzolin-grunt",
+    "pokemon": [
+      {
+        "name": "cryogonal",
+        "level": "48",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Reflect",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "cryogonal",
+        "level": "48",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Light Screen",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "weavile",
+        "level": "50",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "ice",
+            "damage_class": "physical",
+            "name": "Ice Shard",
+            "effect": "",
+            "priority": 1
+          }
+        ],
+        "ability": {
+          "name": "Pressure",
+          "effect": ""
+        },
+        "sprite": "461",
+        "types": [
+          "dark",
+          "ice"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 120,
+          "def": 65,
+          "spa": 45,
+          "spd": 85,
+          "spe": 125
+        }
+      },
+      {
+        "name": "liepard",
+        "level": "45",
+        "moves": [
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Taunt",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Assurance",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Limber",
+          "effect": ""
+        },
+        "sprite": "510",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 64,
+          "atk": 88,
+          "def": 50,
+          "spa": 88,
+          "spd": 50,
+          "spe": 106
+        }
+      },
+      {
+        "name": "watchog",
+        "level": "45",
+        "moves": [
+          {
+            "power": 80,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slam",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Hyper Fang",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Baton Pass",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Mean Look",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illuminate",
+          "effect": ""
+        },
+        "sprite": "505",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 85,
+          "def": 69,
+          "spa": 60,
+          "spd": 69,
+          "spe": 77
+        }
+      },
+      {
+        "name": "scolipede",
+        "level": "45",
+        "moves": [
+          {
+            "power": 65,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "Steamroller",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Agility",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Baton Pass",
+            "effect": ""
+          },
+          {
+            "type": "poison",
+            "damage_class": "status",
+            "name": "Toxic",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Poison Point",
+          "effect": ""
+        },
+        "sprite": "545",
+        "types": [
+          "bug",
+          "poison"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 100,
+          "def": 89,
+          "spa": 55,
+          "spd": 69,
+          "spe": 112
+        }
+      }
+    ]
+  },
+  "zinz4": {
+    "name": "Zinzolin",
+    "speciality": "",
+    "img": "/leaders/blwh-zinzolin",
+    "pokemon": [
+      {
+        "name": "cryogonal",
+        "level": "49",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Reflect",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "cryogonal",
+        "level": "49",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Light Screen",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "615",
+        "types": [
+          "ice"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 50,
+          "def": 50,
+          "spa": 95,
+          "spd": 135,
+          "spe": 105
+        }
+      },
+      {
+        "name": "weavile",
+        "level": "51",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "ice",
+            "damage_class": "physical",
+            "name": "Ice Shard",
+            "effect": "",
+            "priority": 1
+          }
+        ],
+        "ability": {
+          "name": "Pressure",
+          "effect": ""
+        },
+        "sprite": "461",
+        "types": [
+          "dark",
+          "ice"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 120,
+          "def": 65,
+          "spa": 45,
+          "spd": 85,
+          "spe": 125
+        }
+      }
+    ]
+  },
+  "shad": {
+    "name": "Shadow",
+    "speciality": "",
+    "img": "/leaders/blwh-shadow",
+    "pokemon": [
+      {
+        "name": "pawniard",
+        "level": "46",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Scary Face",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Defiant",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "pawniard",
+        "level": "46",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Scary Face",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Inner Focus",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "absol",
+        "level": "48",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Swords Dance",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Future Sight",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Super Luck",
+          "effect": ""
+        },
+        "sprite": "359",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 130,
+          "def": 60,
+          "spa": 75,
+          "spd": 60,
+          "spe": 75
+        }
+      }
+    ]
+  },
+  "shad1": {
+    "name": "Shadow",
+    "speciality": "",
+    "img": "/leaders/blwh-shadow",
+    "pokemon": [
+      {
+        "name": "pawniard",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Scary Face",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Defiant",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "pawniard",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Hone Claws",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Inner Focus",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "absol",
+        "level": "51",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Swords Dance",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Future Sight",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Super Luck",
+          "effect": ""
+        },
+        "sprite": "359",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 130,
+          "def": 60,
+          "spa": 75,
+          "spd": 60,
+          "spe": 75
+        }
+      }
+    ]
+  },
+  "shad2": {
+    "name": "Shadow",
+    "speciality": "",
+    "img": "/leaders/blwh-shadow",
+    "pokemon": [
+      {
+        "name": "pawniard",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Scary Face",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Defiant",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "pawniard",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Hone Claws",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Inner Focus",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "banette",
+        "level": "51",
+        "moves": [
+          {
+            "power": 70,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Shadow Claw",
+            "effect": ""
+          },
+          {
+            "type": "fire",
+            "damage_class": "status",
+            "name": "Will-O-Wisp",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Sucker Punch",
+            "effect": "",
+            "priority": 1
+          }
+        ],
+        "ability": {
+          "name": "Insomnia",
+          "effect": ""
+        },
+        "sprite": "354",
+        "types": [
+          "ghost"
+        ],
+        "stats": {
+          "hp": 64,
+          "atk": 115,
+          "def": 65,
+          "spa": 83,
+          "spd": 63,
+          "spe": 65
+        }
+      }
+    ]
+  },
+  "shad3": {
+    "name": "Shadow",
+    "speciality": "",
+    "img": "/leaders/blwh-shadow",
+    "pokemon": [
+      {
+        "name": "pawniard",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Scary Face",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Defiant",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "pawniard",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Hone Claws",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Inner Focus",
+          "effect": ""
+        },
+        "sprite": "624",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 85,
+          "def": 70,
+          "spa": 40,
+          "spd": 40,
+          "spe": 60
+        }
+      },
+      {
+        "name": "accelgor",
+        "level": "51",
+        "moves": [
+          {
+            "power": 90,
+            "type": "bug",
+            "damage_class": "special",
+            "name": "Bug Buzz",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "grass",
+            "damage_class": "special",
+            "name": "Giga Drain",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Me First",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "normal",
+            "damage_class": "special",
+            "name": "Swift",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Hydration",
+          "effect": ""
+        },
+        "sprite": "617",
+        "types": [
+          "bug"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 70,
+          "def": 40,
+          "spa": 100,
+          "spd": 60,
+          "spe": 145
+        }
+      }
+    ]
+  },
+  "ghetsis": {
+    "name": "Ghetsis",
+    "speciality": "",
+    "img": "/leaders/blwh-ghetsis-2",
+    "pokemon": [
+      {
+        "name": "cofagrigus",
+        "level": "50",
+        "moves": [
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Protect",
+            "effect": "",
+            "priority": 4
+          },
+          {
+            "type": "poison",
+            "damage_class": "status",
+            "name": "Toxic",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Mummy",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "leftovers",
+          "name": "Leftovers",
+          "effect": ""
+        },
+        "sprite": "563",
+        "types": [
+          "ghost"
+        ],
+        "stats": {
+          "hp": 58,
+          "atk": 50,
+          "def": 145,
+          "spa": 95,
+          "spd": 105,
+          "spe": 30
+        }
+      },
+      {
+        "name": "seismitoad",
+        "level": "50",
+        "moves": [
+          {
+            "power": 90,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Muddy Water",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Drain Punch",
+            "effect": ""
+          },
+          {
+            "power": 95,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Sludge Wave",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Poison Touch",
+          "effect": ""
+        },
+        "sprite": "537",
+        "types": [
+          "water",
+          "ground"
+        ],
+        "stats": {
+          "hp": 105,
+          "atk": 95,
+          "def": 75,
+          "spa": 85,
+          "spd": 75,
+          "spe": 74
+        }
+      },
+      {
+        "name": "eelektross",
+        "level": "50",
+        "moves": [
+          {
+            "power": 90,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Flamethrower",
+            "effect": ""
+          },
+          {
+            "power": 55,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Acrobatics",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunderbolt",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "604",
+        "types": [
+          "electric"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 115,
+          "def": 80,
+          "spa": 105,
+          "spd": 80,
+          "spe": 50
+        }
+      },
+      {
+        "name": "drapion",
+        "level": "50",
+        "moves": [
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "poison",
+            "damage_class": "physical",
+            "name": "Poison Fang",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "X-Scissor",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sniper",
+          "effect": ""
+        },
+        "sprite": "452",
+        "types": [
+          "poison",
+          "dark"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 90,
+          "def": 110,
+          "spa": 60,
+          "spd": 75,
+          "spe": 95
+        }
+      },
+      {
+        "name": "toxicroak",
+        "level": "50",
+        "moves": [
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Brick Break",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Sucker Punch",
+            "effect": "",
+            "priority": 1
+          },
+          {
+            "power": 80,
+            "type": "poison",
+            "damage_class": "physical",
+            "name": "Poison Jab",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Anticipation",
+          "effect": ""
+        },
+        "sprite": "454",
+        "types": [
+          "poison",
+          "fighting"
+        ],
+        "stats": {
+          "hp": 83,
+          "atk": 106,
+          "def": 65,
+          "spa": 86,
+          "spd": 65,
+          "spe": 85
+        }
+      },
+      {
+        "name": "hydreigon",
+        "level": "52",
+        "moves": [
+          {
+            "power": 100,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Rush",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Frustration",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "life-orb",
+          "name": "Life Orb",
+          "effect": ""
+        },
+        "sprite": "635",
+        "types": [
+          "dark",
+          "dragon"
+        ],
+        "stats": {
+          "hp": 92,
+          "atk": 105,
+          "def": 90,
+          "spa": 125,
+          "spd": 90,
+          "spe": 98
+        }
+      }
+    ]
+  },
+  "alder": {
+    "name": "Alder",
+    "speciality": "",
+    "img": "/leaders/blwh-alder",
+    "pokemon": [
+      {
+        "name": "accelgor",
+        "level": "60",
+        "moves": [
+          {
+            "power": 120,
+            "type": "fighting",
+            "damage_class": "special",
+            "name": "Focus Blast",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Acid Spray",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "grass",
+            "damage_class": "special",
+            "name": "Giga Drain",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "bug",
+            "damage_class": "special",
+            "name": "Bug Buzz",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sticky Hold",
+          "effect": ""
+        },
+        "sprite": "617",
+        "types": [
+          "bug"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 70,
+          "def": 40,
+          "spa": 100,
+          "spd": 60,
+          "spe": 145
+        }
+      },
+      {
+        "name": "escavalier",
+        "level": "60",
+        "moves": [
+          {
+            "power": 80,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "X-Scissor",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Swords Dance",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Iron Head",
+            "effect": ""
+          },
+          {
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Reversal",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Shell Armor",
+          "effect": ""
+        },
+        "sprite": "589",
+        "types": [
+          "bug",
+          "steel"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 135,
+          "def": 105,
+          "spa": 60,
+          "spd": 105,
+          "spe": 20
+        }
+      },
+      {
+        "name": "bouffalant",
+        "level": "60",
+        "moves": [
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "physical",
+            "name": "Wild Charge",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "Megahorn",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Head Charge",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Reckless",
+          "effect": ""
+        },
+        "sprite": "626",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 95,
+          "atk": 110,
+          "def": 95,
+          "spa": 40,
+          "spd": 95,
+          "spe": 55
+        }
+      },
+      {
+        "name": "conkeldurr",
+        "level": "60",
+        "moves": [
+          {
+            "power": 100,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Stone Edge",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Superpower",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "poison",
+            "damage_class": "physical",
+            "name": "Poison Jab",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Guts",
+          "effect": ""
+        },
+        "sprite": "534",
+        "types": [
+          "fighting"
+        ],
+        "stats": {
+          "hp": 105,
+          "atk": 140,
+          "def": 95,
+          "spa": 55,
+          "spd": 65,
+          "spe": 45
+        }
+      },
+      {
+        "name": "braviary",
+        "level": "60",
+        "moves": [
+          {
+            "power": 75,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Crush Claw",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Superpower",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Aerial Ace",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Keen Eye",
+          "effect": ""
+        },
+        "sprite": "628",
+        "types": [
+          "normal",
+          "flying"
+        ],
+        "stats": {
+          "hp": 100,
+          "atk": 123,
+          "def": 75,
+          "spa": 57,
+          "spd": 75,
+          "spe": 80
+        }
+      },
+      {
+        "name": "volcarona",
+        "level": "62",
+        "moves": [
+          {
+            "type": "bug",
+            "damage_class": "status",
+            "name": "Quiver Dance",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "bug",
+            "damage_class": "special",
+            "name": "Silver Wind",
+            "effect": ""
+          },
+          {
+            "power": 95,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Heat Wave",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Flame Body",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "637",
+        "types": [
+          "bug",
+          "fire"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 60,
+          "def": 65,
+          "spa": 135,
+          "spd": 105,
+          "spe": 100
+        }
+      }
+    ]
+  },
+  "r1": {
+    "name": "Hugh",
+    "speciality": "",
+    "img": "/leaders/blwh-hugh",
+    "pokemon": [
+      {
+        "name": "tepig",
+        "level": "5",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Tackle",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Tail Whip",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Blaze",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "498",
+        "types": [
+          "fire"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 63,
+          "def": 45,
+          "spa": 45,
+          "spd": 45,
+          "spe": 45
+        }
+      }
+    ]
+  },
+  "r2": {
+    "name": "Hugh",
+    "speciality": "",
+    "img": "/leaders/blwh-hugh",
+    "pokemon": [
+      {
+        "name": "tepig",
+        "level": "8",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Tackle",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Tail Whip",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Blaze",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "498",
+        "types": [
+          "fire"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 63,
+          "def": 45,
+          "spa": 45,
+          "spd": 45,
+          "spe": 45
+        }
+      }
+    ]
+  },
+  "r3": {
+    "name": "Hugh",
+    "speciality": "",
+    "img": "/leaders/blwh-hugh",
+    "pokemon": [
+      {
+        "name": "pignite",
+        "level": "25",
+        "moves": [
+          {
+            "power": 90,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Take Down",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Smog",
+            "effect": ""
+          },
+          {
+            "type": "fire",
+            "damage_class": "physical",
+            "name": "Heat Crash",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rollout",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Blaze",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "499",
+        "types": [
+          "fire",
+          "fighting"
+        ],
+        "stats": {
+          "hp": 90,
+          "atk": 93,
+          "def": 55,
+          "spa": 70,
+          "spd": 55,
+          "spe": 55
+        }
+      },
+      {
+        "name": "simipour",
+        "level": "25",
+        "moves": [
+          {
+            "power": 80,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Scald",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Leer",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Lick",
+            "effect": ""
+          },
+          {
+            "power": 18,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fury Swipes",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Gluttony",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "516",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 98,
+          "def": 63,
+          "spa": 98,
+          "spd": 63,
+          "spe": 101
+        }
+      },
+      {
+        "name": "tranquill",
+        "level": "25",
+        "moves": [
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Cutter",
+            "effect": ""
+          },
+          {
+            "type": "flying",
+            "damage_class": "status",
+            "name": "Roost",
+            "effect": ""
+          },
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Taunt",
+            "effect": ""
+          },
+          {
+            "type": "fighting",
+            "damage_class": "status",
+            "name": "Detect",
+            "effect": "",
+            "priority": 4
+          }
+        ],
+        "ability": {
+          "name": "Super Luck",
+          "effect": ""
+        },
+        "sprite": "520",
+        "types": [
+          "normal",
+          "flying"
+        ],
+        "stats": {
+          "hp": 62,
+          "atk": 77,
+          "def": 62,
+          "spa": 50,
+          "spd": 42,
+          "spe": 65
+        }
+      }
+    ]
+  },
+  "r4": {
+    "name": "Hugh",
+    "speciality": "",
+    "img": "/leaders/blwh-hugh",
+    "pokemon": [
+      {
+        "name": "unfezant",
+        "level": "39",
+        "moves": [
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Taunt",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Slash",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "normal",
+            "damage_class": "special",
+            "name": "Razor Wind",
+            "effect": ""
+          },
+          {
+            "type": "fighting",
+            "damage_class": "status",
+            "name": "Detect",
+            "effect": "",
+            "priority": 4
+          }
+        ],
+        "ability": {
+          "name": "Super Luck",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "scope-lens",
+          "name": "Scope Lens",
+          "effect": ""
+        },
+        "sprite": "521",
+        "types": [
+          "normal",
+          "flying"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 115,
+          "def": 80,
+          "spa": 65,
+          "spd": 55,
+          "spe": 93
+        }
+      },
+      {
+        "name": "simipour",
+        "level": "39",
+        "moves": [
+          {
+            "power": 80,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Scald",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Leer",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Lick",
+            "effect": ""
+          },
+          {
+            "power": 18,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fury Swipes",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Gluttony",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "mystic-water",
+          "name": "Mystic Water",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "516",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 98,
+          "def": 63,
+          "spa": 98,
+          "spd": 63,
+          "spe": 101
+        }
+      },
+      {
+        "name": "emboar",
+        "level": "41",
+        "moves": [
+          {
+            "power": 90,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Take Down",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Assurance",
+            "effect": ""
+          },
+          {
+            "type": "fire",
+            "damage_class": "physical",
+            "name": "Heat Crash",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rollout",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Blaze",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "charcoal",
+          "name": "Charcoal",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "500",
+        "types": [
+          "fire",
+          "fighting"
+        ],
+        "stats": {
+          "hp": 110,
+          "atk": 123,
+          "def": 65,
+          "spa": 100,
+          "spd": 65,
+          "spe": 65
+        }
+      }
+    ]
+  },
+  "r5": {
+    "name": "Hugh",
+    "speciality": "",
+    "img": "/leaders/blwh-hugh",
+    "pokemon": [
+      {
+        "name": "unfezant",
+        "level": "55",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Facade",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Aerial Ace",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "U-turn",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Swagger",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Super Luck",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "scope-lens",
+          "name": "Scope Lens",
+          "effect": ""
+        },
+        "sprite": "521",
+        "types": [
+          "normal",
+          "flying"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 115,
+          "def": 80,
+          "spa": 65,
+          "spd": 55,
+          "spe": 93
+        }
+      },
+      {
+        "name": "simipour",
+        "level": "55",
+        "moves": [
+          {
+            "power": 90,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Surf",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Brick Break",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Gluttony",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "mystic-water",
+          "name": "Mystic Water",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "516",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 98,
+          "def": 63,
+          "spa": 98,
+          "spd": 63,
+          "spe": 101
+        }
+      },
+      {
+        "name": "bouffalant",
+        "level": "55",
+        "moves": [
+          {
+            "power": 120,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Head Charge",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "physical",
+            "name": "Wild Charge",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "Megahorn",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sap Sipper",
+          "effect": ""
+        },
+        "sprite": "626",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 95,
+          "atk": 110,
+          "def": 95,
+          "spa": 40,
+          "spd": 95,
+          "spe": 55
+        }
+      },
+      {
+        "name": "emboar",
+        "level": "57",
+        "moves": [
+          {
+            "power": 90,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Flamethrower",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Brick Break",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Scald",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Blaze",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "charcoal",
+          "name": "Charcoal",
+          "effect": ""
+        },
+        "starter": "grass",
+        "sprite": "500",
+        "types": [
+          "fire",
+          "fighting"
+        ],
+        "stats": {
+          "hp": 110,
+          "atk": 123,
+          "def": 65,
+          "spa": 100,
+          "spd": 65,
+          "spe": 65
+        }
+      }
+    ]
+  },
+  "ch": {
+    "name": "Cheren",
+    "speciality": "normal",
+    "img": "/leaders/blwh-cheren-boss",
+    "pokemon": [
+      {
+        "name": "stoutland",
+        "level": "25",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Tackle",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Work Up",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Odor Sleuth",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Bite",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Intimidate",
+          "effect": ""
+        },
+        "sprite": "508",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 110,
+          "def": 90,
+          "spa": 45,
+          "spd": 90,
+          "spe": 80
+        }
+      },
+      {
+        "name": "cinccino",
+        "level": "25",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Sing",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Work Up",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Wake-Up Slap",
+            "effect": ""
+          },
+          {
+            "power": 25,
+            "type": "grass",
+            "damage_class": "physical",
+            "name": "Bullet Seed",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Cute Charm",
+          "effect": ""
+        },
+        "sprite": "573",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 95,
+          "def": 60,
+          "spa": 65,
+          "spd": 60,
+          "spe": 115
+        }
+      },
+      {
+        "name": "watchog",
+        "level": "25",
+        "moves": [
+          {
+            "type": "ghost",
+            "damage_class": "status",
+            "name": "Confuse Ray",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Work Up",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Hypnosis",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Bite",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Illuminate",
+          "effect": ""
+        },
+        "sprite": "505",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 85,
+          "def": 69,
+          "spa": 60,
+          "spd": 69,
+          "spe": 77
+        }
+      }
+    ]
+  },
+  "col2": {
+    "name": "Colress",
+    "speciality": "steel",
+    "img": "/leaders/blwh-colress",
+    "pokemon": [
+      {
+        "name": "magneton",
+        "level": "25",
+        "moves": [
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Thunder Wave",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunder Shock",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Supersonic",
+            "effect": ""
+          },
+          {
+            "power": 65,
+            "type": "steel",
+            "damage_class": "special",
+            "name": "Mirror Shot",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "82",
+        "types": [
+          "electric",
+          "steel"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 60,
+          "def": 95,
+          "spa": 120,
+          "spd": 70,
+          "spe": 70
+        }
+      },
+      {
+        "name": "elgyem",
+        "level": "25",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Growl",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Headbutt",
+            "effect": ""
+          },
+          {
+            "power": 65,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psybeam",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Heal Block",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Telepathy",
+          "effect": ""
+        },
+        "sprite": "605",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 55,
+          "def": 55,
+          "spa": 85,
+          "spd": 55,
+          "spe": 30
+        }
+      },
+      {
+        "name": "klink",
+        "level": "25",
+        "moves": [
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Charge",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunder Shock",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Gear Grind",
+            "effect": ""
+          },
+          {
+            "power": 15,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Bind",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Plus",
+          "effect": ""
+        },
+        "sprite": "599",
+        "types": [
+          "steel"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 55,
+          "def": 70,
+          "spa": 45,
+          "spd": 60,
+          "spe": 30
+        }
+      }
+    ]
+  },
+  "gf1": {
+    "name": "Morimoto",
+    "speciality": "",
+    "pokemon": [
+      {
+        "name": "pansage",
+        "level": "14",
+        "moves": [
+          {
+            "power": 45,
+            "type": "grass",
+            "damage_class": "physical",
+            "name": "Vine Whip",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Lick",
+            "effect": ""
+          },
+          {
+            "power": 18,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fury Swipes",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Gluttony",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "oran-berry",
+          "name": "Oran Berry",
+          "effect": ""
+        },
+        "sprite": "511",
+        "types": [
+          "grass"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 53,
+          "def": 48,
+          "spa": 53,
+          "spd": 48,
+          "spe": 64
+        }
+      },
+      {
+        "name": "pansear",
+        "level": "14",
+        "moves": [
+          {
+            "power": 60,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Incinerate",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Lick",
+            "effect": ""
+          },
+          {
+            "power": 18,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fury Swipes",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Gluttony",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "oran-berry",
+          "name": "Oran Berry",
+          "effect": ""
+        },
+        "sprite": "513",
+        "types": [
+          "fire"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 53,
+          "def": 48,
+          "spa": 53,
+          "spd": 48,
+          "spe": 64
+        }
+      },
+      {
+        "name": "panpour",
+        "level": "14",
+        "moves": [
+          {
+            "power": 40,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Water Gun",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Lick",
+            "effect": ""
+          },
+          {
+            "power": 18,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fury Swipes",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Gluttony",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "oran-berry",
+          "name": "Oran Berry",
+          "effect": ""
+        },
+        "sprite": "515",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 53,
+          "def": 48,
+          "spa": 53,
+          "spd": 48,
+          "spe": 64
+        }
+      }
+    ]
+  },
+  "gf2": {
+    "name": "Nishino",
+    "speciality": "",
+    "pokemon": [
+      {
+        "name": "clefairy",
+        "level": "16",
+        "moves": [
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Growl",
+            "effect": ""
+          },
+          {
+            "power": 15,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Double Slap",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Follow Me",
+            "effect": "",
+            "priority": 2
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Encore",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Cute Charm",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "leftovers",
+          "name": "Leftovers",
+          "effect": ""
+        },
+        "sprite": "35",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 45,
+          "def": 48,
+          "spa": 60,
+          "spd": 65,
+          "spe": 35
+        }
+      }
+    ]
+  },
+  "subway": {
+    "name": "Ingo & Emmet",
+    "speciality": "",
+    "pokemon": [
+      {
+        "name": "gurdurr",
+        "level": "26",
+        "moves": [
+          {
+            "power": 70,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Wake-Up Slap",
+            "effect": ""
+          },
+          {
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Low Kick",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Throw",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Chip Away",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sheer Force",
+          "effect": ""
+        },
+        "sprite": "533",
+        "types": [
+          "fighting"
+        ],
+        "stats": {
+          "hp": 85,
+          "atk": 105,
+          "def": 85,
+          "spa": 40,
+          "spd": 50,
+          "spe": 40
+        }
+      },
+      {
+        "name": "boldore",
+        "level": "26",
+        "moves": [
+          {
+            "type": "steel",
+            "damage_class": "status",
+            "name": "Iron Defense",
+            "effect": ""
+          },
+          {
+            "power": 20,
+            "type": "ground",
+            "damage_class": "special",
+            "name": "Mud-Slap",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "rock",
+            "damage_class": "special",
+            "name": "Power Gem",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Smack Down",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "525",
+        "types": [
+          "rock"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 105,
+          "def": 105,
+          "spa": 50,
+          "spd": 40,
+          "spe": 20
+        }
+      }
+    ]
+  },
+  "charles": {
+    "name": "Charles",
+    "speciality": "",
+    "img": "/leaders/blwh-charles",
+    "pokemon": [
+      {
+        "name": "sigilyph",
+        "level": "26",
+        "moves": [
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Cutter",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Whirlwind",
+            "effect": "",
+            "priority": -6
+          },
+          {
+            "power": 65,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psybeam",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Light Screen",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Magic Guard",
+          "effect": ""
+        },
+        "sprite": "561",
+        "types": [
+          "psychic",
+          "flying"
+        ],
+        "stats": {
+          "hp": 72,
+          "atk": 58,
+          "def": 80,
+          "spa": 103,
+          "spd": 80,
+          "spe": 97
+        }
+      },
+      {
+        "name": "archen",
+        "level": "26",
+        "moves": [
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Pluck",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Agility",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "rock",
+            "damage_class": "special",
+            "name": "Ancient Power",
+            "effect": ""
+          },
+          {
+            "type": "fighting",
+            "damage_class": "status",
+            "name": "Quick Guard",
+            "effect": "",
+            "priority": 3
+          }
+        ],
+        "ability": {
+          "name": "Defeatist",
+          "effect": ""
+        },
+        "sprite": "566",
+        "types": [
+          "rock",
+          "flying"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 112,
+          "def": 45,
+          "spa": 74,
+          "spd": 45,
+          "spe": 70
+        }
+      },
+      {
+        "name": "tirtouga",
+        "level": "26",
+        "moves": [
+          {
+            "type": "rock",
+            "damage_class": "status",
+            "name": "Wide Guard",
+            "effect": "",
+            "priority": 3
+          },
+          {
+            "power": 60,
+            "type": "rock",
+            "damage_class": "special",
+            "name": "Ancient Power",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "water",
+            "damage_class": "physical",
+            "name": "Aqua Jet",
+            "effect": "",
+            "priority": 1
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Solid Rock",
+          "effect": ""
+        },
+        "sprite": "564",
+        "types": [
+          "water",
+          "rock"
+        ],
+        "stats": {
+          "hp": 54,
+          "atk": 78,
+          "def": 103,
+          "spa": 53,
+          "spd": 45,
+          "spe": 22
+        }
+      }
+    ]
+  },
+  "1n": {
+    "name": "Cheren",
+    "speciality": "normal",
+    "img": "/leaders/blwh-cheren-boss",
+    "pokemon": [
+      {
+        "name": "patrat",
+        "level": "11",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Tackle",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Work Up",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Bite",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Keen Eye",
+          "effect": ""
+        },
+        "sprite": "504",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 55,
+          "def": 39,
+          "spa": 35,
+          "spd": 39,
+          "spe": 42
+        }
+      },
+      {
+        "name": "lillipup",
+        "level": "13",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Tackle",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Work Up",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Bite",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Vital Spirit",
+          "effect": ""
+        },
+        "sprite": "506",
+        "types": [
+          "normal"
+        ],
+        "stats": {
+          "hp": 45,
+          "atk": 60,
+          "def": 45,
+          "spa": 25,
+          "spd": 45,
+          "spe": 55
+        }
+      }
+    ]
+  },
+  "2n": {
+    "name": "Roxie",
+    "speciality": "poison",
+    "img": "/leaders/blwh-roxie",
+    "pokemon": [
+      {
+        "name": "koffing",
+        "level": "16",
+        "moves": [
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Assurance",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Tackle",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Smog",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "109",
+        "types": [
+          "poison"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 65,
+          "def": 95,
+          "spa": 60,
+          "spd": 45,
+          "spe": 35
+        }
+      },
+      {
+        "name": "whirlipede",
+        "level": "18",
+        "moves": [
+          {
+            "power": 65,
+            "type": "poison",
+            "damage_class": "special",
+            "name": "Venoshock",
+            "effect": ""
+          },
+          {
+            "power": 15,
+            "type": "poison",
+            "damage_class": "physical",
+            "name": "Poison Sting",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Protect",
+            "effect": "",
+            "priority": 4
+          },
+          {
+            "power": 40,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Pursuit",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Poison Point",
+          "effect": ""
+        },
+        "sprite": "544",
+        "types": [
+          "bug",
+          "poison"
+        ],
+        "stats": {
+          "hp": 40,
+          "atk": 55,
+          "def": 99,
+          "spa": 40,
+          "spd": 79,
+          "spe": 47
+        }
+      }
+    ]
+  },
+  "3n": {
+    "name": "Burgh",
+    "speciality": "bug",
+    "img": "/leaders/blwh-burgh",
+    "pokemon": [
+      {
+        "name": "dwebble",
+        "level": "22",
+        "moves": [
+          {
+            "type": "rock",
+            "damage_class": "status",
+            "name": "Rock Polish",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Smack Down",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Feint Attack",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "bug",
+            "damage_class": "special",
+            "name": "Struggle Bug",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "557",
+        "types": [
+          "bug",
+          "rock"
+        ],
+        "stats": {
+          "hp": 50,
+          "atk": 65,
+          "def": 85,
+          "spa": 35,
+          "spd": 35,
+          "spe": 55
+        }
+      },
+      {
+        "name": "swadloon",
+        "level": "22",
+        "moves": [
+          {
+            "type": "bug",
+            "damage_class": "status",
+            "name": "String Shot",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "bug",
+            "damage_class": "special",
+            "name": "Struggle Bug",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Protect",
+            "effect": "",
+            "priority": 4
+          },
+          {
+            "power": 55,
+            "type": "grass",
+            "damage_class": "physical",
+            "name": "Razor Leaf",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Leaf Guard",
+          "effect": ""
+        },
+        "sprite": "541",
+        "types": [
+          "bug",
+          "grass"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 63,
+          "def": 90,
+          "spa": 50,
+          "spd": 80,
+          "spe": 42
+        }
+      },
+      {
+        "name": "leavanny",
+        "level": "24",
+        "moves": [
+          {
+            "power": 50,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Cut",
+            "effect": ""
+          },
+          {
+            "power": 55,
+            "type": "grass",
+            "damage_class": "physical",
+            "name": "Razor Leaf",
+            "effect": ""
+          },
+          {
+            "type": "bug",
+            "damage_class": "status",
+            "name": "String Shot",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "bug",
+            "damage_class": "special",
+            "name": "Struggle Bug",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Swarm",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "542",
+        "types": [
+          "bug",
+          "grass"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 103,
+          "def": 80,
+          "spa": 70,
+          "spd": 80,
+          "spe": 92
+        }
+      }
+    ]
+  },
+  "4n": {
+    "name": "Elesa",
+    "speciality": "electric",
+    "img": "/leaders/blwh-elesa-2",
+    "pokemon": [
+      {
+        "name": "emolga",
+        "level": "28",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Quick Attack",
+            "effect": "",
+            "priority": 1
+          },
+          {
+            "power": 40,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Pursuit",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Volt Switch",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Static",
+          "effect": ""
+        },
+        "sprite": "587",
+        "types": [
+          "electric",
+          "flying"
+        ],
+        "stats": {
+          "hp": 55,
+          "atk": 75,
+          "def": 60,
+          "spa": 75,
+          "spd": 60,
+          "spe": 103
+        }
+      },
+      {
+        "name": "flaaffy",
+        "level": "28",
+        "moves": [
+          {
+            "type": "electric",
+            "damage_class": "status",
+            "name": "Thunder Wave",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Volt Switch",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Take Down",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Static",
+          "effect": ""
+        },
+        "sprite": "180",
+        "types": [
+          "electric"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 55,
+          "def": 55,
+          "spa": 80,
+          "spd": 60,
+          "spe": 45
+        }
+      },
+      {
+        "name": "zebstrika",
+        "level": "30",
+        "moves": [
+          {
+            "power": 70,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Volt Switch",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Pursuit",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "fire",
+            "damage_class": "physical",
+            "name": "Flame Charge",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Quick Attack",
+            "effect": "",
+            "priority": 1
+          }
+        ],
+        "ability": {
+          "name": "Motor Drive",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "523",
+        "types": [
+          "electric"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 100,
+          "def": 63,
+          "spa": 80,
+          "spd": 63,
+          "spe": 116
+        }
+      }
+    ]
+  },
+  "5n": {
+    "name": "Clay",
+    "speciality": "ground",
+    "img": "/leaders/blwh-clay",
+    "pokemon": [
+      {
+        "name": "krokorok",
+        "level": "31",
+        "moves": [
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "type": "dark",
+            "damage_class": "status",
+            "name": "Torment",
+            "effect": ""
+          },
+          {
+            "power": 35,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Sand Tomb",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Bulldoze",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Intimidate",
+          "effect": ""
+        },
+        "sprite": "552",
+        "types": [
+          "ground",
+          "dark"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 82,
+          "def": 45,
+          "spa": 45,
+          "spd": 45,
+          "spe": 74
+        }
+      },
+      {
+        "name": "sandslash",
+        "level": "31",
+        "moves": [
+          {
+            "power": 60,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Bulldoze",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rollout",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Crush Claw",
+            "effect": ""
+          },
+          {
+            "power": 40,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "Fury Cutter",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sand Veil",
+          "effect": ""
+        },
+        "sprite": "28",
+        "types": [
+          "ground"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 100,
+          "def": 110,
+          "spa": 45,
+          "spd": 55,
+          "spe": 65
+        }
+      },
+      {
+        "name": "excadrill",
+        "level": "33",
+        "moves": [
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Bulldoze",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sand Force",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "530",
+        "types": [
+          "ground",
+          "steel"
+        ],
+        "stats": {
+          "hp": 110,
+          "atk": 135,
+          "def": 60,
+          "spa": 50,
+          "spd": 65,
+          "spe": 88
+        }
+      }
+    ]
+  },
+  "6n": {
+    "name": "Skyla",
+    "speciality": "flying",
+    "img": "/leaders/blwh-skyla",
+    "pokemon": [
+      {
+        "name": "swoobat",
+        "level": "37",
+        "moves": [
+          {
+            "power": 60,
+            "type": "psychic",
+            "damage_class": "physical",
+            "name": "Heart Stamp",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Attract",
+            "effect": ""
+          },
+          {
+            "power": 55,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Acrobatics",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Assurance",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Unaware",
+          "effect": ""
+        },
+        "sprite": "528",
+        "types": [
+          "psychic",
+          "flying"
+        ],
+        "stats": {
+          "hp": 67,
+          "atk": 57,
+          "def": 55,
+          "spa": 77,
+          "spd": 55,
+          "spe": 114
+        }
+      },
+      {
+        "name": "skarmory",
+        "level": "37",
+        "moves": [
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Aerial Ace",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Steel Wing",
+            "effect": ""
+          },
+          {
+            "power": 15,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fury Attack",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Agility",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "227",
+        "types": [
+          "steel",
+          "flying"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 80,
+          "def": 140,
+          "spa": 40,
+          "spd": 70,
+          "spe": 70
+        }
+      },
+      {
+        "name": "swanna",
+        "level": "39",
+        "moves": [
+          {
+            "type": "flying",
+            "damage_class": "status",
+            "name": "Roost",
+            "effect": ""
+          },
+          {
+            "type": "flying",
+            "damage_class": "status",
+            "name": "Feather Dance",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Slash",
+            "effect": ""
+          },
+          {
+            "power": 65,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Bubble Beam",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Big Pecks",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "581",
+        "types": [
+          "water",
+          "flying"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 87,
+          "def": 63,
+          "spa": 87,
+          "spd": 63,
+          "spe": 98
+        }
+      }
+    ]
+  },
+  "7n": {
+    "name": "Drayden",
+    "speciality": "dragon",
+    "img": "/leaders/blwh-drayden",
+    "pokemon": [
+      {
+        "name": "druddigon",
+        "level": "46",
+        "moves": [
+          {
+            "power": 60,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Revenge",
+            "effect": "",
+            "priority": -4
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Tail",
+            "effect": "",
+            "priority": -6
+          }
+        ],
+        "ability": {
+          "name": "Sheer Force",
+          "effect": ""
+        },
+        "sprite": "621",
+        "types": [
+          "dragon"
+        ],
+        "stats": {
+          "hp": 77,
+          "atk": 120,
+          "def": 90,
+          "spa": 60,
+          "spd": 90,
+          "spe": 48
+        }
+      },
+      {
+        "name": "flygon",
+        "level": "46",
+        "moves": [
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Tail",
+            "effect": "",
+            "priority": -6
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ground",
+            "damage_class": "special",
+            "name": "Earth Power",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "330",
+        "types": [
+          "ground",
+          "dragon"
+        ],
+        "stats": {
+          "hp": 80,
+          "atk": 100,
+          "def": 80,
+          "spa": 80,
+          "spd": 80,
+          "spe": 100
+        }
+      },
+      {
+        "name": "haxorus",
+        "level": "48",
+        "moves": [
+          {
+            "type": "dragon",
+            "damage_class": "status",
+            "name": "Dragon Dance",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Tail",
+            "effect": "",
+            "priority": -6
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Slash",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Assurance",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Mold Breaker",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "612",
+        "types": [
+          "dragon"
+        ],
+        "stats": {
+          "hp": 76,
+          "atk": 147,
+          "def": 90,
+          "spa": 60,
+          "spd": 70,
+          "spe": 97
+        }
+      }
+    ]
+  },
+  "8n": {
+    "name": "Marlon",
+    "speciality": "water",
+    "img": "/leaders/blwh-marlon",
+    "pokemon": [
+      {
+        "name": "carracosta",
+        "level": "49",
+        "moves": [
+          {
+            "power": 50,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Smack Down",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Shell Smash",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Scald",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "565",
+        "types": [
+          "water",
+          "rock"
+        ],
+        "stats": {
+          "hp": 74,
+          "atk": 108,
+          "def": 133,
+          "spa": 83,
+          "spd": 65,
+          "spe": 32
+        }
+      },
+      {
+        "name": "wailord",
+        "level": "49",
+        "moves": [
+          {
+            "power": 80,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Scald",
+            "effect": ""
+          },
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Amnesia",
+            "effect": ""
+          },
+          {
+            "power": 30,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rollout",
+            "effect": ""
+          },
+          {
+            "power": 85,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Bounce",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Water Veil",
+          "effect": ""
+        },
+        "sprite": "321",
+        "types": [
+          "water"
+        ],
+        "stats": {
+          "hp": 170,
+          "atk": 90,
+          "def": 45,
+          "spa": 90,
+          "spd": 45,
+          "spe": 60
+        }
+      },
+      {
+        "name": "jellicent",
+        "level": "51",
+        "moves": [
+          {
+            "power": 65,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Brine",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Scald",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Recover",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Ominous Wind",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Cursed Body",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "593",
+        "types": [
+          "water",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 100,
+          "atk": 60,
+          "def": 70,
+          "spa": 85,
+          "spd": 105,
+          "spe": 60
+        }
+      }
+    ]
+  },
+  "e1n": {
+    "name": "Shauntal",
+    "speciality": "ghost",
+    "img": "/leaders/blwh-shauntal",
+    "pokemon": [
+      {
+        "name": "cofagrigus",
+        "level": "56",
+        "moves": [
+          {
+            "type": "grass",
+            "damage_class": "special",
+            "name": "Grass Knot",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "type": "fire",
+            "damage_class": "status",
+            "name": "Will-O-Wisp",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Mummy",
+          "effect": ""
+        },
+        "sprite": "563",
+        "types": [
+          "ghost"
+        ],
+        "stats": {
+          "hp": 58,
+          "atk": 50,
+          "def": 145,
+          "spa": 95,
+          "spd": 105,
+          "spe": 30
+        }
+      },
+      {
+        "name": "drifblim",
+        "level": "56",
+        "moves": [
+          {
+            "power": 55,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Acrobatics",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunderbolt",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Aftermath",
+          "effect": ""
+        },
+        "sprite": "426",
+        "types": [
+          "ghost",
+          "flying"
+        ],
+        "stats": {
+          "hp": 150,
+          "atk": 80,
+          "def": 44,
+          "spa": 90,
+          "spd": 54,
+          "spe": 80
+        }
+      },
+      {
+        "name": "golurk",
+        "level": "56",
+        "moves": [
+          {
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Heavy Slam",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Brick Break",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "ghost",
+            "damage_class": "physical",
+            "name": "Shadow Punch",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Iron Fist",
+          "effect": ""
+        },
+        "sprite": "623",
+        "types": [
+          "ground",
+          "ghost"
+        ],
+        "stats": {
+          "hp": 89,
+          "atk": 124,
+          "def": 80,
+          "spa": 55,
+          "spd": 80,
+          "spe": 55
+        }
+      },
+      {
+        "name": "chandelure",
+        "level": "58",
+        "moves": [
+          {
+            "power": 110,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Fire Blast",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "grass",
+            "damage_class": "special",
+            "name": "Energy Ball",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Flame Body",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "609",
+        "types": [
+          "ghost",
+          "fire"
+        ],
+        "stats": {
+          "hp": 60,
+          "atk": 55,
+          "def": 90,
+          "spa": 145,
+          "spd": 90,
+          "spe": 80
+        }
+      }
+    ]
+  },
+  "e2n": {
+    "name": "Grimsley",
+    "speciality": "dark",
+    "img": "/leaders/blwh-grimsley",
+    "pokemon": [
+      {
+        "name": "liepard",
+        "level": "56",
+        "moves": [
+          {
+            "power": 40,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Fake Out",
+            "effect": "",
+            "priority": 3
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Attract",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Aerial Ace",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Limber",
+          "effect": ""
+        },
+        "sprite": "510",
+        "types": [
+          "dark"
+        ],
+        "stats": {
+          "hp": 64,
+          "atk": 88,
+          "def": 50,
+          "spa": 88,
+          "spd": 50,
+          "spe": 106
+        }
+      },
+      {
+        "name": "scrafty",
+        "level": "56",
+        "moves": [
+          {
+            "power": 60,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Tomb",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Brick Break",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "poison",
+            "damage_class": "physical",
+            "name": "Poison Jab",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Moxie",
+          "effect": ""
+        },
+        "sprite": "560",
+        "types": [
+          "dark",
+          "fighting"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 90,
+          "def": 115,
+          "spa": 45,
+          "spd": 115,
+          "spe": 58
+        }
+      },
+      {
+        "name": "krookodile",
+        "level": "56",
+        "moves": [
+          {
+            "power": 80,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Crunch",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Claw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Tomb",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Intimidate",
+          "effect": ""
+        },
+        "sprite": "553",
+        "types": [
+          "ground",
+          "dark"
+        ],
+        "stats": {
+          "hp": 95,
+          "atk": 117,
+          "def": 80,
+          "spa": 65,
+          "spd": 70,
+          "spe": 92
+        }
+      },
+      {
+        "name": "bisharp",
+        "level": "58",
+        "moves": [
+          {
+            "power": 70,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Night Slash",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Aerial Ace",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "X-Scissor",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "steel",
+            "damage_class": "physical",
+            "name": "Metal Claw",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Defiant",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "625",
+        "types": [
+          "dark",
+          "steel"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 125,
+          "def": 100,
+          "spa": 60,
+          "spd": 70,
+          "spe": 70
+        }
+      }
+    ]
+  },
+  "e3n": {
+    "name": "Caitlin",
+    "speciality": "psychic",
+    "img": "/leaders/blwh-caitlin",
+    "pokemon": [
+      {
+        "name": "musharna",
+        "level": "56",
+        "moves": [
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Reflect",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Yawn",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Dream Eater",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Charge Beam",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Synchronize",
+          "effect": ""
+        },
+        "sprite": "518",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 116,
+          "atk": 55,
+          "def": 85,
+          "spa": 107,
+          "spd": 95,
+          "spe": 29
+        }
+      },
+      {
+        "name": "sigilyph",
+        "level": "56",
+        "moves": [
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "flying",
+            "damage_class": "special",
+            "name": "Air Slash",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Wonder Skin",
+          "effect": ""
+        },
+        "sprite": "561",
+        "types": [
+          "psychic",
+          "flying"
+        ],
+        "stats": {
+          "hp": 72,
+          "atk": 58,
+          "def": 80,
+          "spa": 103,
+          "spd": 80,
+          "spe": 97
+        }
+      },
+      {
+        "name": "reuniclus",
+        "level": "56",
+        "moves": [
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "grass",
+            "damage_class": "special",
+            "name": "Energy Ball",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "fighting",
+            "damage_class": "special",
+            "name": "Focus Blast",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Recover",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Magic Guard",
+          "effect": ""
+        },
+        "sprite": "579",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 110,
+          "atk": 65,
+          "def": 75,
+          "spa": 125,
+          "spd": 85,
+          "spe": 30
+        }
+      },
+      {
+        "name": "gothitelle",
+        "level": "58",
+        "moves": [
+          {
+            "type": "psychic",
+            "damage_class": "status",
+            "name": "Calm Mind",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "psychic",
+            "damage_class": "special",
+            "name": "Psychic",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "ghost",
+            "damage_class": "special",
+            "name": "Shadow Ball",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunderbolt",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Frisk",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "576",
+        "types": [
+          "psychic"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 55,
+          "def": 95,
+          "spa": 95,
+          "spd": 110,
+          "spe": 65
+        }
+      }
+    ]
+  },
+  "e4n": {
+    "name": "Marshal",
+    "speciality": "fighting",
+    "img": "/leaders/blwh-marshal",
+    "pokemon": [
+      {
+        "name": "throh",
+        "level": "56",
+        "moves": [
+          {
+            "power": 60,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Storm Throw",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Bulldoze",
+            "effect": ""
+          },
+          {
+            "power": 60,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Tomb",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Payback",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Guts",
+          "effect": ""
+        },
+        "sprite": "538",
+        "types": [
+          "fighting"
+        ],
+        "stats": {
+          "hp": 120,
+          "atk": 100,
+          "def": 85,
+          "spa": 30,
+          "spd": 85,
+          "spe": 45
+        }
+      },
+      {
+        "name": "sawk",
+        "level": "56",
+        "moves": [
+          {
+            "power": 75,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Brick Break",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Retaliate",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "dark",
+            "damage_class": "physical",
+            "name": "Payback",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sturdy",
+          "effect": ""
+        },
+        "sprite": "539",
+        "types": [
+          "fighting"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 125,
+          "def": 75,
+          "spa": 30,
+          "spd": 75,
+          "spe": 85
+        }
+      },
+      {
+        "name": "mienshao",
+        "level": "56",
+        "moves": [
+          {
+            "power": 130,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "High Jump Kick",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "U-turn",
+            "effect": ""
+          },
+          {
+            "power": 85,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Bounce",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Retaliate",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Regenerator",
+          "effect": ""
+        },
+        "sprite": "620",
+        "types": [
+          "fighting"
+        ],
+        "stats": {
+          "hp": 65,
+          "atk": 125,
+          "def": 60,
+          "spa": 95,
+          "spd": 60,
+          "spe": 105
+        }
+      },
+      {
+        "name": "conkeldurr",
+        "level": "58",
+        "moves": [
+          {
+            "power": 100,
+            "type": "fighting",
+            "damage_class": "physical",
+            "name": "Hammer Arm",
+            "effect": ""
+          },
+          {
+            "type": "fighting",
+            "damage_class": "status",
+            "name": "Bulk Up",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Stone Edge",
+            "effect": ""
+          },
+          {
+            "power": 70,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Retaliate",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sheer Force",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "sitrus-berry",
+          "name": "Sitrus Berry",
+          "effect": ""
+        },
+        "sprite": "534",
+        "types": [
+          "fighting"
+        ],
+        "stats": {
+          "hp": 105,
+          "atk": 140,
+          "def": 95,
+          "spa": 55,
+          "spd": 65,
+          "spe": 45
+        }
+      }
+    ]
+  },
+  "cn": {
+    "name": "Iris",
+    "speciality": "",
+    "img": "/leaders/blwh-iris-champion",
+    "pokemon": [
+      {
+        "name": "hydreigon",
+        "level": "57",
+        "moves": [
+          {
+            "power": 85,
+            "type": "dragon",
+            "damage_class": "special",
+            "name": "Dragon Pulse",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Surf",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Flamethrower",
+            "effect": ""
+          },
+          {
+            "power": 50,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Charge Beam",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Levitate",
+          "effect": ""
+        },
+        "sprite": "635",
+        "types": [
+          "dark",
+          "dragon"
+        ],
+        "stats": {
+          "hp": 92,
+          "atk": 105,
+          "def": 90,
+          "spa": 125,
+          "spd": 90,
+          "spe": 98
+        }
+      },
+      {
+        "name": "druddigon",
+        "level": "57",
+        "moves": [
+          {
+            "power": 60,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Tail",
+            "effect": "",
+            "priority": -6
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "fire",
+            "damage_class": "special",
+            "name": "Flamethrower",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "fighting",
+            "damage_class": "special",
+            "name": "Focus Blast",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Sheer Force",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "life-orb",
+          "name": "Life Orb",
+          "effect": ""
+        },
+        "sprite": "621",
+        "types": [
+          "dragon"
+        ],
+        "stats": {
+          "hp": 77,
+          "atk": 120,
+          "def": 90,
+          "spa": 60,
+          "spd": 90,
+          "spe": 48
+        }
+      },
+      {
+        "name": "aggron",
+        "level": "57",
+        "moves": [
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 120,
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Double-Edge",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "type": "steel",
+            "damage_class": "status",
+            "name": "Autotomize",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Rock Head",
+          "effect": ""
+        },
+        "sprite": "306",
+        "types": [
+          "steel",
+          "rock"
+        ],
+        "stats": {
+          "hp": 70,
+          "atk": 110,
+          "def": 180,
+          "spa": 60,
+          "spd": 60,
+          "spe": 50
+        }
+      },
+      {
+        "name": "archeops",
+        "level": "57",
+        "moves": [
+          {
+            "power": 55,
+            "type": "flying",
+            "damage_class": "physical",
+            "name": "Acrobatics",
+            "effect": ""
+          },
+          {
+            "power": 75,
+            "type": "rock",
+            "damage_class": "physical",
+            "name": "Rock Slide",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dragon Claw",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "physical",
+            "name": "Endeavor",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Defeatist",
+          "effect": ""
+        },
+        "sprite": "567",
+        "types": [
+          "rock",
+          "flying"
+        ],
+        "stats": {
+          "hp": 75,
+          "atk": 140,
+          "def": 65,
+          "spa": 112,
+          "spd": 65,
+          "spe": 110
+        }
+      },
+      {
+        "name": "lapras",
+        "level": "57",
+        "moves": [
+          {
+            "power": 90,
+            "type": "water",
+            "damage_class": "special",
+            "name": "Surf",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "ice",
+            "damage_class": "special",
+            "name": "Ice Beam",
+            "effect": ""
+          },
+          {
+            "power": 90,
+            "type": "electric",
+            "damage_class": "special",
+            "name": "Thunderbolt",
+            "effect": ""
+          },
+          {
+            "type": "normal",
+            "damage_class": "status",
+            "name": "Sing",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Water Absorb",
+          "effect": ""
+        },
+        "sprite": "131",
+        "types": [
+          "water",
+          "ice"
+        ],
+        "stats": {
+          "hp": 130,
+          "atk": 85,
+          "def": 80,
+          "spa": 85,
+          "spd": 95,
+          "spe": 60
+        }
+      },
+      {
+        "name": "haxorus",
+        "level": "59",
+        "moves": [
+          {
+            "power": 40,
+            "type": "dragon",
+            "damage_class": "physical",
+            "name": "Dual Chop",
+            "effect": ""
+          },
+          {
+            "type": "dragon",
+            "damage_class": "status",
+            "name": "Dragon Dance",
+            "effect": ""
+          },
+          {
+            "power": 100,
+            "type": "ground",
+            "damage_class": "physical",
+            "name": "Earthquake",
+            "effect": ""
+          },
+          {
+            "power": 80,
+            "type": "bug",
+            "damage_class": "physical",
+            "name": "X-Scissor",
+            "effect": ""
+          }
+        ],
+        "ability": {
+          "name": "Mold Breaker",
+          "effect": ""
+        },
+        "held": {
+          "sprite": "focus-sash",
+          "name": "Focus Sash",
+          "effect": ""
+        },
+        "sprite": "612",
+        "types": [
+          "dragon"
+        ],
+        "stats": {
+          "hp": 76,
+          "atk": 147,
+          "def": 90,
+          "spa": 60,
+          "spd": 70,
+          "spe": 97
+        }
+      }
+    ]
+  }
+}

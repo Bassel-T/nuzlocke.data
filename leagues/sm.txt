@@ -59,7 +59,7 @@ type-null|38|pursuit,crush-claw,x-scissor|battle-armor
 --g4|Gladion||/leaders/sm-gladion@Beliot419@https://www.deviantart.com/beliot419
 crobat|52|acrobatics,cross-poison|inner-focus
 weavile|52|ice-shard,metal-claw,night-slash|pressure
-lucario|52|aura-sphere,metal-claw,quick-attack|inner-focus|steelium-z--held
+lucario|52|aura-sphere,metal-claw,quick-attack|inner-focus|steelium-z
 silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|fire-memory|grass
 silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|water-memory|fire
 silvally|53|crunch,crush-claw,x-scissor,multi-attack|rks-system|grass-memory|water
@@ -89,18 +89,18 @@ litten|14|ember,growl,lick,leer|blaze||water
 
 --r4|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419
 pikachu|16|quick-attack,electro-ball|static
-brionne|17|aqua-jet,disarming-voice,pound|torrent|normalium-z--held|grass
-dartrix|17|razor-leaf,peck,tackle|overgrow|normalium-z--held|fire
-torracat|17|fire-fang,lick,scratch|blaze|normalium-z--held|water
+brionne|17|aqua-jet,disarming-voice,pound|torrent|normalium-z|grass
+dartrix|17|razor-leaf,peck,tackle|overgrow|normalium-z|fire
+torracat|17|fire-fang,lick,scratch|blaze|normalium-z|water
 
 --r5|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419
 raichu-alola>raichu-alola|28|electro-ball,quick-attack,psychic|surge-surfer
 flareon|28|fire-fang,quick-attack|flash-fire||grass
 vaporeon|28|water-pulse,quick-attack|water-absorb||fire
 leafeon|28|giga-drain,quick-attack|leaf-guard||water
-brionne|29|bubble-beam,disarming-voice|torrent|waterium-z--held|grass
-dartrix|29|razor-leaf,peck|overgrow|grassium-z--held|fire
-torracat|29|fire-fang,bite|blaze|firium-z--held|water
+brionne|29|bubble-beam,disarming-voice|torrent|waterium-z|grass
+dartrix|29|razor-leaf,peck|overgrow|grassium-z|fire
+torracat|29|fire-fang,bite|blaze|firium-z|water
 
 --r6|Hau||/leaders/sm-hau@Beliot419@https://www.deviantart.com/beliot419
 raichu-alola>raichu-alola|53|thunderbolt,quick-attack,psychic,focus-blast|surge-surfer
@@ -108,9 +108,9 @@ flareon|53|flare-blitz,quick-attack,charm,baby-doll-eyes|flash-fire||grass
 vaporeon|53|hydro-pump,quick-attack,charm,baby-doll-eyes|water-absorb||fire
 leafeon|53|leaf-blade,quick-attack,charm,baby-doll-eyes|leaf-guard||water
 komala|53|wood-hammer,sucker-punch,earthquake,shadow-claw|comatose
-primarina|54|sparkling-aria,moonblast,hyper-voice|torrent|waterium-z--held|grass
-decidueye|54|spirit-shackle,leaf-blade,smack-down|overgrow|grassium-z--held|fire
-incineroar|54|darkest-lariat,flare-blitz,earthquake|blaze|firium-z--held|water
+primarina|54|sparkling-aria,moonblast,hyper-voice|torrent|waterium-z|grass
+decidueye|54|spirit-shackle,leaf-blade,smack-down|overgrow|grassium-z|fire
+incineroar|54|darkest-lariat,flare-blitz,earthquake|blaze|firium-z|water
 
 --dsa|Dexio|psychic|/leaders/sm-dexio@Beliot419@https://www.deviantart.com/beliot419
 slowpoke|15|confusion,water-gun|own-tempo
@@ -128,7 +128,7 @@ smeargle|10|water-gun,tackle|technician||fire
 smeargle|10|leafage,tackle|technician||water
 
 --1_2|Ilima (Optional)|normal|/leaders/sm-ilima@Drawnamu@https://www.deviantart.com/drawnamu
-gumshoos|15|tackle,pursuit,leer|strong-jaw|normalium-z--held
+gumshoos|15|tackle,pursuit,leer|strong-jaw|normalium-z
 smeargle|14|ember,water-gun,leafage,tackle|technician|
 
 --1a|Ilima's trial|normal|/leaders/sm-ilima@Drawnamu@https://www.deviantart.com/drawnamu
@@ -142,7 +142,7 @@ rattata-alola>rattata-alola|10|tackle,focus-energy,quick-attack,tail-whip|hustle
 --2|Island Kahuna Hala|fighting|/leaders/sm-hala@Beliot419@https://www.deviantart.com/beliot419
 mankey|14|karate-chop,focus-energy,pursuit|anger-point
 makuhita|14|fake-out,sand-attack,arm-thrust|thick-fat
-crabrawler|15|power-up-punch,pursuit,leer|iron-fist|fightinium-z--held
+crabrawler|15|power-up-punch,pursuit,leer|iron-fist|fightinium-z
 
 --3|Lana's trial|water|/leaders/sm-lana@Kyledove@https://www.deviantart.com/kyle-dove
 wishiwashi-school|20|water-gun,rain-dance,soak,growl|schooling|sitrus-berry
@@ -161,11 +161,11 @@ castform|22|sunny-day,water-gun,headbutt,weather-ball|forecast||
 --7|Island Kahuna Olivia|rock|/leaders/sm-olivia@Kyledove@https://www.deviantart.com/kyle-dove
 nosepass|25|rock-slide,spark,thunder-wave|sturdy||
 boldore|26|rock-blast,mud-slap,headbutt|sturdy||
-lycanroc-midnight|26|bite,rock-throw|vital-spirit|rockium-z--held|
+lycanroc-midnight|26|bite,rock-throw|vital-spirit|rockium-z|
 
 --8|Sophocles' Trial|electric|/leaders/sm-sophocles@Kyledove@https://www.deviantart.com/kyle-dove
-vikavolt|29|vice-grip,charge,spark,bug-bite|levitate|occa-berry|
-charjabug|28|thunder-wave,string-shot,mud-slap,vice-grip|battery||
+vikavolt|29|vise-grip,charge,spark,bug-bite|levitate|occa-berry|
+charjabug|28|thunder-wave,string-shot,mud-slap,vise-grip|battery||
 charjabug|28|bite,thunder-wave,spark|battery||
 
 --9|Acerola's Trial|ghost|/leaders/sm-acerola@Drawnamu@https://www.deviantart.com/drawnamu
@@ -176,13 +176,13 @@ gengar|27|shadow-ball,hypnosis,night-shade,shadow-punch|cursed-body||
 --10|Island Kahuna Nanu|dark|/leaders/sm-nanu@Drawnamu@https://www.deviantart.com/drawnamu
 sableye|38|power-gem,shadow-ball,fake-out|keen-eye||
 krokorok|38|crunch,assurance,swagger,earthquake|intimidate||
-persian-alola>persian-alola|39|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z--held|
+persian-alola>persian-alola|39|power-gem,fake-out,dark-pulse|fur-coat|darkinium-z|
 
 --11|Island Kahuna Hapu|ground|/leaders/sm-hapu@Beliot419@https://www.deviantart.com/beliot419
 dugtrio-alola>dugtrio-alola|47|iron-head,earthquake,sucker-punch,sandstorm|sand-veil||
 gastrodon|47|muddy-water,mud-bomb,recover|sticky-hold||
 flygon|47|earth-power,dragon-breath|levitate||
-mudsdale|48|heavy-slam,earthquake,double-kick,counter|stamina|groundium-z--held|
+mudsdale|48|heavy-slam,earthquake,double-kick,counter|stamina|groundium-z|
 
 --12|Kommo-o's Trial|dragon|/leaders/sm-kommoo
 kommo-o|45|clanging-scales,sky-uppercut,flash-cannon,protect|soundproof|mental-herb
@@ -195,28 +195,28 @@ hariyama|54|fake-out,close-combat,knock-off|thick-fat||
 primeape|54|cross-chop,outrage,punishment,pursuit|anger-point||
 bewear|54|hammer-arm,brutal-swing|fluffy||
 poliwrath|54|waterfall,submission|water-absorb||
-crabominable|55|ice-hammer,close-combat|iron-fist|fightinium-z--held|
+crabominable|55|ice-hammer,close-combat|iron-fist|fightinium-z|
 
 --e2|Olivia|rock|/leaders/sm-olivia@Kyledove@https://www.deviantart.com/kyle-dove#Olivia
 relicanth|54|hydro-pump,ancient-power,yawn|swift-swim||
 carbink|54|power-gem,moonblast,reflect|clear-body||
 golem-alola>golem-alola|54|thunder-punch,rock-blast,steamroller|sturdy||
 probopass|54|earth-power,power-gem,thunder-wave,sandstorm|sturdy||
-lycanroc-midnight|55|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z--held|
+lycanroc-midnight|55|crunch,stone-edge,counter,rock-climb|keen-eye|rockium-z|
 
 --e3|Acerola|ghost|/leaders/sm-acerola@Drawnamu@https://www.deviantart.com/drawnamu#Acerola
 sableye|54|shadow-claw,zen-headbutt,confuse-ray,fake-out|keen-eye||
 drifblim|54|ominous-wind,focus-energy,amnesia,baton-pass|aftermath||
 dhelmise|54|slam,shadow-ball,energy-ball,whirlpool|steelworker||
 froslass|54|blizzard,shadow-ball,confuse-ray,ice-shard|snow-cloak||
-palossand|55|shadow-ball,earth-power,giga-drain,iron-defense|water-compaction|ghostium-z--held|
+palossand|55|shadow-ball,earth-power,giga-drain,iron-defense|water-compaction|ghostium-z|
 
 --e4|Kahili|flying|/leaders/sm-kahili@Beliot419@https://www.deviantart.com/beliot419#Kahili
 skarmory|54|slash,steel-wing,feint,spikes|sturdy||
 crobat|54|air-slash,swift,supersonic,poison-fang|inner-focus||
 oricorio-baile|54|revelation-dance,teeter-dance,air-slash,feather-dance|dancer||
 mandibuzz|54|bone-rush,brave-bird,punishment,flatter|big-pecks||
-toucannon|55|bullet-seed,rock-blast,beak-blast,screech|skill-link|flyinium-z--held|
+toucannon|55|bullet-seed,rock-blast,beak-blast,screech|skill-link|flyinium-z|
 
 --c|Kukui||/leaders/sm-kukui@Kyledove@https://www.deviantart.com/kyle-dove#Champion
 lycanroc-midday|57|stone-edge,accelerock,crunch,stealth-rock|keen-eye||
@@ -224,6 +224,6 @@ ninetales-alola>ninetales-alola|56|dazzling-gleam,blizzard,ice-shard,safeguard|s
 braviary|56|crush-claw,brave-bird,tailwind,whirlwind|keen-eye||
 magnezone|56|thunderbolt,flash-cannon,thunder-wave,mirror-coat|sturdy||
 snorlax|56|body-slam,crunch,heavy-slam,high-horsepower|thick-fat||
-incineroar|58|flare-blitz,darkest-lariat,outrage,cross-chop|blaze|firium-z--held|grass
-primarina|58|sparkling-aria,moonblast,aqua-jet,hyper-voice|torrent|waterium-z--held|fire
-decidueye|58|leaf-blade,spirit-shackle,brave-bird,sucker-punch|overgrow|grassium-z--held|water
+incineroar|58|flare-blitz,darkest-lariat,outrage,cross-chop|blaze|firium-z|grass
+primarina|58|sparkling-aria,moonblast,aqua-jet,hyper-voice|torrent|waterium-z|fire
+decidueye|58|leaf-blade,spirit-shackle,brave-bird,sucker-punch|overgrow|grassium-z|water

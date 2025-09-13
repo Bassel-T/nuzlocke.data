@@ -3,7 +3,7 @@ Starter|rowlet,litten,popplio
 Route 1|caterpie,rattataalola,rattata,pikachu,meowthalola,slowpoke,magnemite,grimeralola,gastly,ledyba,spinarak,pichu,wingull,drifloon,buneary,bonsly,happiny,munchlax,zorua,inkay,pikipek,yungoos,grubbin,rockruff
 --Iki Town Festival|r2|rival|Hau
 Hau'oli Outskirts|raticatealola,slowpoke,magikarp,gyarados,chinchou,lanturn,natu,xatu,wingull,nosepass,honedge,gumshoos,wishiwashi,stufful
-Trainer's School|mewothalola,zorua,magnemtic,grimeralola
+Trainer's School|mewothalola,zorua,magnemite,grimeralola
 Hau'oli City|meowthalola,abra,tentacool,magnemite,grimeralola,hypno,mrmime,magikarp,gyarados,corsola,remoraid,octillery,wingull,clamperl,huntail,gorebyss,luvdisc,mimejr,happiny,finneon,mantyke,scatterbug,furfrou,wishiwashi,mareanie,bewear
 --Hau'oli City|1|gym-leader|Ilima
 Route 2|bulbasaur,rattataalola,spearow,ekans,meowthalola,growlithe,abra,drowzee,dunsparce,smeargle,makuhita,furfrou,hawlucha,yungoos,crabrawler,cutiefly

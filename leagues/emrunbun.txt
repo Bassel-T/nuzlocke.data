@@ -275,7 +275,7 @@ yveltal|100|dark-pulse,oblivion-wing,heat-wave,roost|dark-aura|dread-plate|||tim
 gyarados|100|waterfall,crunch,earthquake,dragon-dance|intimidate|gyaradosite|||jolly
 
 --ed1|Sidney (Double)|dark|/leaders/rs-sidney
-==double:true,info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
+==double:true|info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
 incineroar|99|flare-blitz,knock-off,fire-spin,fake-out|intimidate|iapapa-berry|||jolly
 articuno-galar>articuno-galar|99|hurricane,freezing-glare,hypnosis,tailwind|competitive|lum-berry|||timid
 overqwil|99|gunk-shot,crunch,fell-stinger,icy-wind|intimidate|assault-vest|||jolly
@@ -292,7 +292,7 @@ marshadow|100|close-combat,shadow-sneak,knock-off,bulk-up|technician|lum-berry||
 gengar|100|sludge-wave,shadow-ball,focus-blast,destiny-bond|levitate|gengarite|||timid
 
 --ed2|Phoebe (Double)|ghost|/leaders/rs-phoebe
-==double:true,info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
+==double:true|info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
 decidueye-hisui>decidueye-hisui|99|close-combat,leaf-blade,knock-off,tailwind|scrappy|focus-sash|||jolly
 chandelure|100|fire-blast,heat-wave,shadow-ball,protect|shadow-tag|kasib-berry|||timid
 blastoise|99|muddy-water,focus-blast,follow-me,fake-out|torrent|iapapa-berry|||timid
@@ -309,7 +309,7 @@ kyurem-white|100|dragon-pulse,ice-beam,fusion-flare,earth-power|turboblaze|assau
 calyrex-ice>calyrex-ice|100|glacial-lance,high-horsepower,substitute,swords-dance|as-one|custap-berry|||jolly
 
 --ed3|Glacia (Double)|ice|/leaders/rs-glacia
-==double:true,info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
+==double:true|info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
 magearna|100|flash-cannon,dazzling-gleam,encore,trick-room|soul-heart|occa-berry|||quiet
 crabominable|100|close-combat,ice-hammer,reversal,crabhammer|hyper-cutter|focus-sash|||brave
 abomasnow|100|blizzard,giga-drain,earth-power,aurora-veil|snow-warning|abomasite|||quiet
@@ -326,7 +326,7 @@ reshiram|100|blue-flare,dragon-pulse,earth-power,roost|turboblaze|lum-berry|||ti
 salamence|100|return,earthquake,dragon-dance,roost|intimidate|salamencite|||jolly
 
 --ed4|Drake (Double)|dragon|/leaders/rs-drake
-==double:true,info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
+==double:true|info:<p>You must opt in to at least <b>two<b/> double battles from the Elite Four</p>
 dragapult|100|dragon-darts,shadow-ball,light-screen,reflect|clear-body|focus-sash|||naive
 suicune|100|scald,snarl,calm-mind,tailwind|inner-focus|leftovers|||bold
 zygarde-50|100|thousand-waves,breaking-swipe,extreme-speed,coil|power-construct|leftovers|||careful

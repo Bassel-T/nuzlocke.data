@@ -1,5 +1,5 @@
 --move
-rock-smash||40| 
+rock-smash||40|
 drill-run||80|Has an increased chance for a critical hit
 pin-missile||15
 petal-dance||95|Has a 10% Chance to lower opponents Sp. Def

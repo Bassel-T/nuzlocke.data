@@ -78,7 +78,7 @@ dragonite|57|superpower,rock-slide,earthquake,extreme-speed|thick-fat|lum-berry
 glalie|66|explosion,ice-shard,ice-beam,earthquake|intimidate|lum-berry
 kingdra|66|rain-dance,octazooka,draco-meteor,ice-beam|swift-swim|lum-berry
 machamp|67|superpower,earthquake,rock-slide,hp-ghost|guts|quick-claw
-tauros|66|double-edge,earthquake,iron-tail,|intimidate|choice-band
+tauros|66|double-edge,earthquake,iron-tail|intimidate|choice-band
 dragonite|66|dragon-dance,hp-flying,earthquake,superpower|thick-fat|lum-berry
 wailord|67|amnesia,earthquake,ice-beam,rest|pressure|leftovers
 

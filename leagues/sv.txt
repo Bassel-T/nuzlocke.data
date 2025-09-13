@@ -45,7 +45,7 @@ mabosstiff|63|crunch,psychic-fangs,fire-fang,play-rough|intimidate|||dark
 
 # Titans
 --t1|Klawf||/sprite/950
-klawf|16|vice-grip,rock-smash,block,rock-tomb|anger-shell
+klawf|16|vise-grip,rock-smash,block,rock-tomb|anger-shell
 
 --t2|Bombirdier||/sprite/962
 bombirdier|20|rock-throw,wing-attack,pluck,torment|rocky-payload

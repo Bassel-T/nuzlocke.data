@@ -238,7 +238,7 @@ slowking|60|scald,focus-blast,psychic,fire-blast|own-tempo|assault-vest
 gallade|62|close-combat,zen-headbutt,knock-off,leaf-blade|justified|life-orb
 gardevoir|62|hyper-voice,psychic,thunderbolt,protect|trace|gardevoirite
 
---8|Wallace|Water|/leaders/rs-wallace-oras@Kyledove@https://www.deviantart.com/kyle-dove
+--8|Wallace|water|/leaders/rs-wallace-oras@Kyledove@https://www.deviantart.com/kyle-dove
 
 politoed|65|hydro-pump,ice-beam,focus-blast,hypnosis|drizzle|damp-rock
 ludicolo|65|hydro-pump,giga-drain,ice-beam,rain-dance|swift-swim|life-orb
